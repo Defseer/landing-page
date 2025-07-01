@@ -1,0 +1,93 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Aria
+}
+
+ul{
+    padding: 20px;
+    padding-bottom: 5px;
+    white-space: nowrap;
+    max-width: 1525px;
+}
+ul li{
+    width: 50%;
+    display: inline-block;
+    font-size: 20px;
+    
+}
+img{
+    position: relative;
+}
+div .child{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    translate: -50% -50%;
+}
+button.up{
+    padding: 20px;
+    background-color: #068ed7;
+    color: white;
+    border-width: 1px;
+    border-radius: 10px;
+}
+ul li.sign{
+    text-align: right;
+}
+h1{
+    color: white;
+}
+.email{
+    padding: 10px;
+    padding-right: 200px;
+    position: relative;
+
+}
+button.down{
+    padding: 11px;
+    background-color: #068ed7;
+    position: absolute;
+    right: 0px;
+    border-width: 1px;
+    color: white;
+}
+.container{
+    margin:  auto;
+    padding: 1rem;
+    width: 1525px;
+    max-width: 100%;
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+}
+div.responsive{
+    max-width: 30%;
+    box-sizing: content-box;
+    padding-left: 150px;
+    padding-right: 150px;
+    text-align: center;
+
+}
+div.boostrap{
+    max-width: 30%;
+    box-sizing: content-box;
+    padding-left: 150px;
+    padding-right: 150px;
+    text-align: center;
+}
+div.easy{
+    max-width: 30%;
+    box-sizing: content-box;
+    padding-left: 150px;
+    padding-right: 150px;
+    text-align: center;
+} 
+h3{
+    text-align: center;
+}
+.car{
+    position: relative;
+    left: 70px;
+}

@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../HTML"
+		},
+		{
+			"path": "../Cat"
+		},
+		{
+			"path": "../simple form"
+		},
+		{
+			"path": "../Table"
+		},
+		{
+			"path": "../News"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../bosstrap"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Landing page"
+	}
+}
